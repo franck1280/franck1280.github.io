@@ -28,6 +28,9 @@ input {
   font-family: 'Lato', sans-serif;
 }
 
+reOrange {
+  color: #ff7315;
+}
 body p {
   line-height: 1.5;
   font-size: 16px;
